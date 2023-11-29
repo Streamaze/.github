@@ -1,4 +1,4 @@
-We're an early stage company focused on improving tools in the live streaming space. You can learn more about what we offer from our early landing page: https://streamerdash.com/landing
+You can learn more about what Streamaze has to offer from the landing page: https://streamaze.xyz/landing
 
-- [Documentation](https://docs.streamerdash.com/)
+- [Documentation](https://guide.streamaze.xyz)
 - [Discord](https://discord.gg/c3RetD5r5Y)
